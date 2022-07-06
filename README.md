@@ -1,16 +1,24 @@
-# mi_card_flutter_app
+# MiCard Flutter App
 
-A new Flutter project.
+App Cartão de Negócios Pessoal (Single Screen) em Flutter desenvolvido durante o treinamento "The Complete 2021 Flutter Development Bootcamp with Dart" da plataforma Udemy.
 
-## Getting Started
+## Informações adicionais
 
-This project is a starting point for a Flutter application.
+- Flutter v. 2.5.1
+- Dart v. 2.14.2
 
-A few resources to get you started if this is your first Flutter project:
+Listar os dispositivos disponíveis
+```flutter
+  flutter devices
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Inicializar a aplicação utilizando o Google Chrome
+```flutter
+  flutter run -d chrome --no-sound-null-safety
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Imagem
+
+<div align="center">
+  <img width="200" alt="Home vazia" src="./flutter_01.png">
+</div>
